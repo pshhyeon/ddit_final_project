@@ -2,7 +2,6 @@
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/ca98afff-e5ef-4e8f-b30e-a86fe579024c">
 
 
-
 <!--목차-->
 # 목차
 - [1] 프로젝트 소개
@@ -27,7 +26,11 @@
 
 
 # [2] 시연 영상
-<a href="https://youtu.be/qd1PR1OQhow">EGG 그룹웨어 시연 영상</a>
+
+<a href="https://youtu.be/qd1PR1OQhow">
+  <img src="https://img.shields.io/badge/EGG%20그룹웨어-시연%20영상-yellow?style=for-the-badge&logo=youtube&logoColor=red" width="300">
+</a>
+
 <br>
 
 
