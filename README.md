@@ -1,5 +1,6 @@
 <!--프로젝트 대문 이미지-->
-<img width="1092" alt="썸네일" src="https://github.com/user-attachments/assets/1e3563bb-39ba-4fa7-90c9-4a709be149ed">
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/ca98afff-e5ef-4e8f-b30e-a86fe579024c">
+
 
 
 <!--목차-->
