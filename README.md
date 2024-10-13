@@ -28,6 +28,7 @@
 
 # [2] 시연 영상
 <a href="https://youtu.be/qd1PR1OQhow">EGG 그룹웨어 시연 영상</a>
+<br>
 
 
 # [3] 팀원 소개
